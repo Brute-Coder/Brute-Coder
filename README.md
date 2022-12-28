@@ -19,7 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
- ## 🫣 Take a look at my Projects:
+ ## 🫣 Take a look on my Projects:
    Weather app -> https://brute-coder.github.io/Weather/
 
   ## 💰 You can help me by Donating
