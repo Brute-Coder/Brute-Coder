@@ -1,6 +1,8 @@
+
 # 💫 About Me:
 🔭 Hello There...<br>👯 Me -> Soumya Sekhar Mahanti<br>🤞 trust me this.boy love Coding ( well..... at least he thinks )<br>🐢 Always Building Logic <br>🫡 Dev at 127.0.0.1<br>⚡ Fun fact: They call me dev ( Okey ! it's not funny ) <br>💖 You can date me cause I name variables in camelCase
 
+<p> <img align="right" alt="Coding" width="300" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_soumyaaaa_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect-to-soumya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20881236) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahantiSekhar) 
@@ -21,9 +23,8 @@
 
  ## 🫣 Take a look on my Projects:
    Weather app -> https://brute-coder.github.io/Weather/
+  <p> <img align="right" alt="Coding" width="100" src="https://media.tenor.com/rOE4aekrInAAAAAi/cat-sniff.gif"/> </p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soumyasekhar) 
-   
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
