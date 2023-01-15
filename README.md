@@ -46,8 +46,9 @@
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
  ## 🫣 Take a look on my Projects:
-   Weather app -> https://brute-coder.github.io/Weather/
-   Count For New Year -> https://brute-coder.github.io/NewYear_Counter/
+   Is it cold there in your area ? -> https://brute-coder.github.io/Weather/<br>
+   <br>
+   lets count for the new year -> https://brute-coder.github.io/NewYear_Counter/
   <p> <img align="right" alt="Coding" width="100" src="https://media.tenor.com/rOE4aekrInAAAAAi/cat-sniff.gif"/> </p>
 
   ## 💰 You can help me by Donating
