@@ -53,6 +53,8 @@
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
  ## 🫣 Take a look on my Projects:
+   Search out all the movies of your favorite marvel character -> https://beyond-movies.vercel.app/ <br>
+   <br>
    Is it cold there in your area ? -> https://brute-coder.github.io/Weather/<br>
    <br>
    lets count for the new year -> https://brute-coder.github.io/NewYear_Counter/
