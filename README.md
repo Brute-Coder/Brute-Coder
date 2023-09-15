@@ -5,8 +5,7 @@
 
 
 # 💫 About Me:
-🔭 Hello There...<br>👯 Me -> Soumya Sekhar Mahanti<br>🤞 trust me this.boy love Coding ( well..... at least he thinks )<br>🐢 Always Building Logic <br>🫡 Dev at 127.0.0.1<br>⚡ Fun fact: They call me dev ( Okey ! it's not funny ) <br>💖 You can date me cause I name variables in camelCase
-
+🔭 Hello There...<br>👯 Me -> Soumya Sekhar Mahanti<br>Always Building Logic <br>🫡 Dev at 127.0.0.1<br>⚡ Fun fact: They call me dev ( Okey ! it's not funny ) <br>
 <p> <img align="right" alt="Coding" width="300" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/> </p>
 
 ## 🌐 Socials:
