@@ -5,16 +5,13 @@
 
 
 # 💫 About Me:
-👋 Hey there, I'm Soumya, a code-wrangler on a journey through the ever-evolving digital universe. I'm currently pursuing my computer science degree while moonlighting as a MERN stack enthusiast with a knack for Next.js magic.
+👨‍💻 MERN stack explorer with a Next.js twist.
 
-💻 By day, I'm crafting web applications that make the internet a more enjoyable place to hang out. You can often find me debugging in the wild or refactoring code like it's a digital Rubik's Cube.
+🧩 Solving LeetCode riddles like a digital detective.
 
-🚀 When I'm not battling bugs, I'm conquering algorithmic dragons on LeetCode, Geeks for Geeks, and Coding Ninjas. Solving those puzzles is my version of a weekend quest - challenging and oddly satisfying!
+📸 Photographer capturing stories in pixels.
 
-📷 Beyond the screen, I have a passion for freezing moments in time with my camera. Photography lets me tell stories without words, and I'm always in pursuit of that perfect shot.
-
-🏍️ On two wheels, I embrace the thrill of the open road, exploring new horizons, and becoming one with the wind. Whether it's a short ride or an epic solo adventure, my bike is my trusted companion.
-
+🏍️ Two-wheel nomad on open-road adventures.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_soumyaaaa_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect-to-soumya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20881236) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahantiSekhar) 
