@@ -49,14 +49,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
- ## 🫣 Take a look on my Projects:
-   Search out all the movies of your favorite marvel character -> https://beyond-movies.vercel.app/ <br>
+ ## 🫣 Take a look at my Projects:
+   Search out all the movies of your favourite Marvel character -> https://beyond-movies.vercel.app/ <br>
    <br>
-   Is it cold there in your area ? -> https://brute-coder.github.io/Weather/<br>
+   Is it cold there in your area? -> https://brute-coder.github.io/Weather/<br>
    <br>
-   lets count for the new year -> https://brute-coder.github.io/NewYear_Counter/
+   let's count for the new year -> https://brute-coder.github.io/NewYear_Counter/
   <p> <img align="right" alt="Coding" width="100" src="https://media.tenor.com/rOE4aekrInAAAAAi/cat-sniff.gif"/> </p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soumyasekhar) 
+ <!-- ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soumyasekhar) -->
 
