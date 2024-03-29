@@ -50,7 +50,7 @@
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
  ## 🫣 Take a look at my Projects:
-   Contribute and Master Your DSA skills Simultaneously On one Platform -> https://beyond-movies.vercel.app/ <br>
+   Contribute and Master Your DSA skills Simultaneously On one Platform -> https://dsahunt.vercel.app/ <br>
    <br>
    Search out all the movies of your favourite Marvel character -> https://beyond-movies.vercel.app/ <br>
    <br>
