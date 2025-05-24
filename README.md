@@ -50,7 +50,7 @@
 [![](https://visitcount.itsvg.in/api?id=Brute-Coder&icon=7&color=9)](https://visitcount.itsvg.in)
 
  ## 🫣 Take a look at my Projects:
-   Securely Share Link to Anyone in The World by using seDirect Broker -> https://sedirect.vercel.app/ <br>
+   Securely Share Link to Anyone in The World by using tinytrail -> https://app.tinytrail.live/ <br>
   <br>
    Contribute and Master Your DSA skills Simultaneously On one Platform -> https://dsahunt.vercel.app/ <br>
    <br>
